@@ -67,5 +67,5 @@ It finds itself balancing
 ### It does not matter what you think it should be, What matters is what people who will use it think it should be.
 
 # Here's something you might want to look at:
- dhttps://userinyerface.com/
+ https://userinyerface.com/
 
